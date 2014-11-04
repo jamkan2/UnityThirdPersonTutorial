@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\ArchetypePrototype\Assets\Scripts\ThirdPersonCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CharacterControllerLogic.cs">
     <Files>
-      <File FileName="..\ArchetypePrototype\Assets\Scripts\ThirdPersonCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterControllerLogic.cs" Line="46" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
